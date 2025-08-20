@@ -6,7 +6,7 @@ The dataset is sourced from Psychika Dataset
 
 ## 📂 Dataset
 
-`Source:` (Psychika Dataset (Kaggle))[https://www.kaggle.com/datasets/xmaulana/psychikadataset-7b/data]
+`Source:` (Psychika Dataset Kaggle)[https://www.kaggle.com/datasets/xmaulana/psychikadataset-7b/data]
 
 Contains Indonesian conversational text regarding **mental health, psychology, and counseling.**
 
@@ -38,7 +38,8 @@ pip install -r requirements.txt
 ## 📊 Results
 ### LDA
 **Topic 1: Uncertainty & Existential Questions**
-(Topic 1)[!topic1.png]
+
+(Topic 1)[topic1.png]
 
 
 **Key terms:** people, maybe, know, true, feel, ask, act/do, say, more, make/do
