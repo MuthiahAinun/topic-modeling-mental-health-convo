@@ -39,7 +39,8 @@ pip install -r requirements.txt
 ### LDA
 **Topic 1: Uncertainty & Existential Questions**
 
-(Topic 1)[topic1.png]
+(Topic 1)[!topic-modeling-mental-health-convo
+/topic1.png]
 
 
 **Key terms:** people, maybe, know, true, feel, ask, act/do, say, more, make/do
