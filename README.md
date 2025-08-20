@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### LDA
 **Topic 1: Uncertainty & Existential Questions**
 
-![][topic1.png]
+![](topic1.png)
 
 **Key terms:** people, maybe, know, true, feel, ask, act/do, say, more, make/do
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ---
 **Topic 2: Seeking Help & Anxiety Therapy**
 
-![][topic2.png]
+![](topic2.png)
 
 **Key terms:** people, help, therapy, own, anxiety, feel, maybe, treatment, healthy, several
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ---
 **Topic 3: Family & Parenting**
 
-![][topic3.png]
+![](topic3.png)
 
 **Key terms:** child, people, mother, parent/elder, act/do, father, family, know, how, maybe
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ---
 **Topic 4: Self-Reflection & Personal Thoughts**
 
-![][topic4.png]
+![](topic4.png)
 
 **Key terms:** think, self, feel, people, act/do, more, alone/self, day, good, maybe
 
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 ---
 **Topic 5: Relationships & Identity**
 
-![][topic5.png]
+![](topic5.png)
 
 **Key terms:** relationship, people, own, feel, self, maybe, together/same, act/do, good, many
 
@@ -123,7 +123,7 @@ The five topics map onto key dimensions of mental health discourse:
 
 #### 🌐 Topic Modeling Insights on Mental Health Conversations
 
-![][newplot.png]
+![](newplot.png)
 
 ## 🧩 Topic 0 – Therapy & Treatment  
 **Keywords:** *terap, tepat, latih, awat, bagaimana*  
